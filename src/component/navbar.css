@@ -1,0 +1,41 @@
+.custom-navbar {
+  background: rgba(104, 138, 158, 0.8);
+  border-radius: 4px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s ease-in-out;
+}
+
+.custom-navbar .nav-link {
+  color: #ffffff !important;
+  margin: 0 15px;
+  transition: color 0.3s ease, opacity 0.3s ease;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #df26c6 !important;
+}
+
+.custom-navbar .navbar-brand img {
+  width: 100px;
+  height: 100px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.custom-navbar .navbar-brand img:hover {
+  transform: scale(1.1);
+}
+
+.custom-navbar .dropdown-menu {
+  background: #6d4291;
+  border-radius: 8px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.custom-navbar .dropdown-item {
+  color: #ffffff;
+  transition: background-color 0.3s ease;
+}
+
+.custom-navbar .dropdown-item:hover {
+  background: #9b22ce;
+}
