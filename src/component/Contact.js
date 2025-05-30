@@ -18,8 +18,7 @@ export const Contact = () => {
     const handleSubmit = async (e) => {
         e.preventDefault();
         try {
-            const response = await fetch('http://localhost:5000/contact', {
-                method: 'POST',
+            const response = await fetch('https://imen-s-portfolio.onrender.com/contact', {                method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
                 },
