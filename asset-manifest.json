@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/imen-s-portfolio/static/css/main.46b1e078.css",
-    "main.js": "/imen-s-portfolio/static/js/main.5436f4d8.js",
+    "main.css": "/imen-s-portfolio/static/css/main.95ce5669.css",
+    "main.js": "/imen-s-portfolio/static/js/main.6bd13bf0.js",
     "static/js/453.32b59731.chunk.js": "/imen-s-portfolio/static/js/453.32b59731.chunk.js",
+    "static/media/resume.pdf": "/imen-s-portfolio/static/media/resume.1fce4916c291d4dc4aa7.pdf",
     "static/media/event.png": "/imen-s-portfolio/static/media/event.7a840f232ca89e1dcf45.png",
     "static/media/sales.png": "/imen-s-portfolio/static/media/sales.c439f0fc3f9465143f33.png",
     "static/media/Myprotfili.png": "/imen-s-portfolio/static/media/Myprotfili.e1ac606121e8cb49ee25.png",
@@ -28,18 +29,19 @@
     "static/media/github.png": "/imen-s-portfolio/static/media/github.f0c5db816c86142c7fa7.png",
     "static/media/backgroung.jpg": "/imen-s-portfolio/static/media/backgroung.ab28619088ed53f46271.jpg",
     "static/media/Mono2poser.ttf": "/imen-s-portfolio/static/media/Mono2poser.24288d9f2c61445f9af7.ttf",
+    "static/media/cv.png": "/imen-s-portfolio/static/media/cv.70561a081afc77bb6130.png",
     "static/media/mysql (1).png": "/imen-s-portfolio/static/media/mysql (1).c5140370bada775f43b9.png",
     "static/media/pytorch.png": "/imen-s-portfolio/static/media/pytorch.ef04c1578a46f3d14b6d.png",
     "static/media/identificationface.jpeg": "/imen-s-portfolio/static/media/identificationface.b58b4f063900c0c52ce3.jpeg",
     "static/media/CentraNo2-LightItalic.otf": "/imen-s-portfolio/static/media/CentraNo2-LightItalic.bc04dcab870d1606a707.otf",
     "static/media/logo.svg": "/imen-s-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/imen-s-portfolio/index.html",
-    "main.46b1e078.css.map": "/imen-s-portfolio/static/css/main.46b1e078.css.map",
-    "main.5436f4d8.js.map": "/imen-s-portfolio/static/js/main.5436f4d8.js.map",
+    "main.95ce5669.css.map": "/imen-s-portfolio/static/css/main.95ce5669.css.map",
+    "main.6bd13bf0.js.map": "/imen-s-portfolio/static/js/main.6bd13bf0.js.map",
     "453.32b59731.chunk.js.map": "/imen-s-portfolio/static/js/453.32b59731.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.46b1e078.css",
-    "static/js/main.5436f4d8.js"
+    "static/css/main.95ce5669.css",
+    "static/js/main.6bd13bf0.js"
   ]
 }
