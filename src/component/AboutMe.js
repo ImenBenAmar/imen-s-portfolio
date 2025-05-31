@@ -3,6 +3,8 @@ import about from '../assets/imen2.png';
 import locationIcon from '../assets/location.png'; 
 import phoneIcon from '../assets/phone.png'; 
 import { Container, Row, Col } from 'react-bootstrap';
+import cv from '../assets/cv.png'; 
+import resume from '../assets/resume.pdf'; 
 
 export const AboutMe = () => {
     return (
@@ -25,13 +27,19 @@ export const AboutMe = () => {
                         <div className="contact-info">
                             <div className="contact-item">
                                 <img src={locationIcon} alt="Location Icon" className="icon" />
-                                <a href="https://www.google.com/maps?q=½+Ain+km+6+Sfax,+Tunisia" target="_blank" rel="noopener noreferrer">
+                                <a href="https://www.google.com/maps?q=Ain+km+6+Sfax,+Tunisia" target="_blank" rel="noopener noreferrer">
                                     ½ Ain km 6 Sfax, Tunisia
                                 </a>
                             </div>
                             <div className="contact-item">
                                 <img src={phoneIcon} alt="Phone Icon" className="icon" />
                                 <span> + 216 54 479 420</span>
+                            </div>
+                            <div className="contact-item">
+                                <img src={cv} alt="cv" className="icon" />
+                                <a href={resume} download="resume.pdf">
+                                    Resume
+                                </a>
                             </div>
                         </div>
                     </Col>

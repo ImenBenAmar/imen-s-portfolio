@@ -5,6 +5,8 @@ import React, { useEffect, useState } from 'react';
 import githubIcon from '../assets/github.png';
 import linkedinIcon from '../assets/linkdin.png';
 import emailIcon from '../assets/email.png';
+import resume from '../assets/resume.pdf'; 
+
 
 export const MyNavbar = () => {
   const [activeLink, setActiveLink] = useState('home');
@@ -56,6 +58,9 @@ export const MyNavbar = () => {
             >
               Projects
             </Nav.Link>
+            <Nav.Link href={resume} download="resume.pdf" className='navbar-link'>
+               Resume                                                   
+            </Nav.Link>                     
           </Nav>
           <span className="navbar-text">
             <div className="social-icons">
