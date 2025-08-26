@@ -17,7 +17,7 @@ function App() {
       <AboutMe />
       <Projects />
       <section className="skills-experience-section">
-        <h2 className="section-title">Skills & Experience</h2>
+        <h2 className="section-title">Skills & Experiences</h2>
         <div className="skills-experience-wrapper">
           <Skills />
           <Experience />
