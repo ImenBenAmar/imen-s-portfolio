@@ -9,6 +9,7 @@ import sign from "../assets/sign.png";
 import portfilio from "../assets/Myprotfili.png";
 import hospital from "../assets/hospital.png";
 import sales from "../assets/sales.png";
+import deeptralog from  "../assets/interface.png" ;
 import './Projects.css';
 
 export const Projects = () => {
@@ -31,6 +32,14 @@ export const Projects = () => {
             imageUrl: ecg,
             link: "https://github.com/ImenBenAmar/ECG-interpreter_DeepLearning"
         },
+
+        {
+            title: "Multi-Source Anomaly Detection and Automatic Explanation in Distributed Systems",
+            description: "An end-to-end pipeline for anomaly detection and root cause analysis (RCA) in distributed systems, combining deep learning and graph-based techniques ",
+            imageUrl: deeptralog,
+            link: "https://github.com/ImenBenAmar/DeepTraLog"
+        },
+        
         {
             title: "Sign Language Detection ",
             description: "This project explores two distinct methods to recognize hand gestures and detect alphabets : Mediapipe and CNN",
@@ -46,7 +55,7 @@ export const Projects = () => {
             link: "https://github.com/ImenBenAmar/Dashbord_Hospital-emergency.git"
         },
         {
-            title: "Sales_Analytics_dashbord",
+            title: "Sales Analytics dashbord",
             description: "A comprehensive sales analytics dashboard built with Power BI, designed to provide insights into sales performance, customer behavior, and market trends. This project showcases my ability to transform raw data into actionable insights for business growth.",
             imageUrl: sales,
             link: "https://github.com/ImenBenAmar/Sales_Analytics_dashbord.git"
@@ -59,7 +68,7 @@ export const Projects = () => {
             title: "This Beautiful Portfolio",
             description: "This portfolio showcases my skills and projects, built with React and Bootstrap.",
             imageUrl: portfilio,
-            link: "https://github.com/ImenBenAmar/My_Own_Portfilio"
+            link: "https://github.com/ImenBenAmar/imen-s-portfolio.git"
         },
         {
             title: "Event Management System",

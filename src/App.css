@@ -1,27 +1,4 @@
-/* custom fonts */
-@font-face {
-  font-family: 'Centra';
-  src: url('./assets/Centra\ No2\ Bold.ttf') ;
-  font-weight: 1000;
-    font-size: x-large;
 
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Centra';
-  src: url('./assets/Mono2poser.ttf') ;
-  font-weight: 700;
-    font-size: x-large;
-
-  font-style: normal;
-}
-@font-face {
-  font-family: 'Centra';
-  src: url('./assets/CentraNo2-LightItalic.otf') ;
-  font-weight: 700;
-  font-size: x-large;
-  font-style: normal;
-}
 *{
   margin:0;
   padding:0;
@@ -32,7 +9,7 @@ html{
   scroll-padding-top: 75px ;
 }
 body {
-  font-weight: 400;
+  font-weight: 300;
   overflow-x: hidden;
   position: relative;
   background-color: #e6ceec !important;

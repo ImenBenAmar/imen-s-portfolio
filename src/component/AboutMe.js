@@ -28,7 +28,7 @@ export const AboutMe = () => {
                             <div className="contact-item">
                                 <img src={locationIcon} alt="Location Icon" className="icon" />
                                 <a href="https://www.google.com/maps?q=Ain+km+6+Sfax,+Tunisia" target="_blank" rel="noopener noreferrer">
-                                    ½ Ain km 6 Sfax, Tunisia
+                                     Ain km 6 Sfax, Tunisia
                                 </a>
                             </div>
                             <div className="contact-item">

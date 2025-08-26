@@ -7,13 +7,15 @@ import TensorFlow from  '../assets/tenserflow.png';
 import Scala from  '../assets/scala.png';
 import git from  '../assets/git.png';
 import sqlserver from  '../assets/sqlserver.png';
-
+import LangChain from  '../assets/langchain-removebg-preview.png';
+import mlflow from  '../assets/mlflow.png';
+import docker from  '../assets/docker.png';
+import hugging_face from  '../assets/hugging_face.png';
 
 export const Skills = () => {
     return (
         <section className="skills" id="skills">
             <div className="skills-header">
-                <h2>Skills</h2>
                 <p>Here are some of my technical and soft skills.</p>
             </div>
             <div className="skills-container">
@@ -52,6 +54,22 @@ export const Skills = () => {
                             <img src={sqlserver} alt="sqlserver" />
                             <span>sqlserver</span>
                         </div>
+                        <div className="skill-item">
+                            <img src={LangChain} alt="LangChain" />
+                            <span>Langchain</span>
+                        </div>
+                        <div className="skill-item">
+                            <img src={mlflow} alt="mlflow" />
+                            <span>Mlflow</span>
+                        </div>
+                         <div className="skill-item">
+                            <img src={docker} alt="docker" />
+                            <span>docker</span>
+                        </div>
+                        <div className="skill-item">
+                            <img src={hugging_face} alt="hugging face" />
+                            <span>hugging face</span>
+                        </div>
                         
                     </div>
                 </div>
@@ -63,8 +81,6 @@ export const Skills = () => {
                         <li>Problem Solving</li>
                         <li>Critical Thinking</li>
                     </ul>
-                </div>
-                <div className="skills-section">
                     <h3>Languages</h3>
                     <ul>
                         <li>English (Intermediate)</li>
