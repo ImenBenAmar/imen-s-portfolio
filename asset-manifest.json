@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/imen-s-portfolio/static/css/main.ba6c2838.css",
-    "main.js": "/imen-s-portfolio/static/js/main.aa068806.js",
+    "main.js": "/imen-s-portfolio/static/js/main.3b54b229.js",
     "static/js/453.32b59731.chunk.js": "/imen-s-portfolio/static/js/453.32b59731.chunk.js",
     "static/media/event.png": "/imen-s-portfolio/static/media/event.7a840f232ca89e1dcf45.png",
     "static/media/sales.png": "/imen-s-portfolio/static/media/sales.c439f0fc3f9465143f33.png",
+    "static/media/resume.pdf": "/imen-s-portfolio/static/media/resume.2df639252e3b571c5423.pdf",
     "static/media/Myprotfili.png": "/imen-s-portfolio/static/media/Myprotfili.e1ac606121e8cb49ee25.png",
     "static/media/sign.png": "/imen-s-portfolio/static/media/sign.10f8aa75293dba04c1ce.png",
-    "static/media/resume.pdf": "/imen-s-portfolio/static/media/resume.6f1a428f9be13254d5dd.pdf",
     "static/media/interface.png": "/imen-s-portfolio/static/media/interface.e66c128de809873aa7ec.png",
     "static/media/hugging_face.png": "/imen-s-portfolio/static/media/hugging_face.59577f3d8e6792b8df9d.png",
     "static/media/contactme.png": "/imen-s-portfolio/static/media/contactme.931ab2b1fd35361ec1af.png",
@@ -39,11 +39,11 @@
     "static/media/logo.svg": "/imen-s-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/imen-s-portfolio/index.html",
     "main.ba6c2838.css.map": "/imen-s-portfolio/static/css/main.ba6c2838.css.map",
-    "main.aa068806.js.map": "/imen-s-portfolio/static/js/main.aa068806.js.map",
+    "main.3b54b229.js.map": "/imen-s-portfolio/static/js/main.3b54b229.js.map",
     "453.32b59731.chunk.js.map": "/imen-s-portfolio/static/js/453.32b59731.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ba6c2838.css",
-    "static/js/main.aa068806.js"
+    "static/js/main.3b54b229.js"
   ]
 }
